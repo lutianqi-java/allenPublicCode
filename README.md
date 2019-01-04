@@ -1,8 +1,3 @@
-# Allen老师公开课相关源码
-
-[![加QQ](https://file.service.qq.com/user-files/uploads/201612/c7247c8c83eaad9b768249f54eba3c19.png)](http://wpa.qq.com/msgrd?v=3&uin=2505507040&site=qq&menu=yes "加Allen老师开车")
-点击头像加Allen老师QQ
-
 |项目名|课题|
 |------|------|
 |[allen-mvc](./allen-mvc)|深入SpringMVC原理老司机带你手写自己的MVC框架|
